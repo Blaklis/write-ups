@@ -22,7 +22,7 @@ http://52.198.197.227:8080/angryseam/css.seam?location=../../../WEB-INF/pages.xm
 
 ![N|Solid](pagesxml.png)
 
-The first thing I tried, with little hope, was to play with the session. **Logged in as lambda user**, I tried to go on registe.seam and register with "admin" username.
+The first thing I tried, with little hope, was to play with the session. **Logged in as lambda user**, I tried to go on register.seam and register with "admin" username.
 
 ![N|Solid](registerAdmin.png)
 
@@ -30,6 +30,6 @@ Error message, the user is existing. But... it changed my session, and I'm logge
 
 ![N|Solid](flag.png)
 
-I'm pretty sure this wasn't the intended way of solve this. But... I think it was the easiest way to do it! :)
+I'm pretty sure this wasn't the intended way to solve this. But... I think it was the easiest way to do it! :)
 
 _Blaklis from Fourchette-Bombe_
