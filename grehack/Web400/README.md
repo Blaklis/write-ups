@@ -1,4 +1,4 @@
-# Araas (400 points)
+# A world without JS (400 points)
 
 This challenge is a system for asking an invitation to an event. We're able to create an account and to ask the organizer to be invited to an event, with a comment.
 We fastly saw that the comment is vulnerable to an XSS; however, the Content Security Policy is blocking pretty much everything, and we're not able to include some javascript to trap the admin easily.
